@@ -5,6 +5,9 @@ This compilation aligns nine 2024 World Development Indicators extracts over the
 - [Download the CSV](AfricaCountryIndicators2024.csv)
 - [Download the Excel workbook](AfricaCountryIndicators2024.xlsx)
 - [Provenance and checksums](provenance.json)
+- [Indicator notes and country examples](indicators/README.md)
+- [Indicator notes and country examples](indicators/README.md)
+- [Indicator notes and country examples](indicators/README.md)
 
 ## Coverage and sources
 
