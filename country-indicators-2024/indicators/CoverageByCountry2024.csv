@@ -1,0 +1,55 @@
+iso3,country_wdi_name,year,reported_indicators,missing_indicators,missing_indicator_codes
+AGO,Angola,2024,9,0,
+BDI,Burundi,2024,9,0,
+BEN,Benin,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+BFA,Burkina Faso,2024,9,0,
+BWA,Botswana,2024,9,0,
+CAF,Central African Republic,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+CIV,Cote d'Ivoire,2024,9,0,
+CMR,Cameroon,2024,9,0,
+COD,"Congo, Dem. Rep.",2024,9,0,
+COG,"Congo, Rep.",2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+COM,Comoros,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+CPV,Cabo Verde,2024,9,0,
+DJI,Djibouti,2024,9,0,
+DZA,Algeria,2024,9,0,
+EGY,"Egypt, Arab Rep.",2024,9,0,
+ERI,Eritrea,2024,5,4,BX.KLT.DINV.WD.GD.ZS|BX.TRF.PWKR.DT.GD.ZS|IT.NET.USER.ZS|NY.GDP.MKTP.CD
+ETH,Ethiopia,2024,9,0,
+GAB,Gabon,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+GHA,Ghana,2024,9,0,
+GIN,Guinea,2024,9,0,
+GMB,"Gambia, The",2024,9,0,
+GNB,Guinea-Bissau,2024,9,0,
+GNQ,Equatorial Guinea,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+KEN,Kenya,2024,9,0,
+LBR,Liberia,2024,9,0,
+LBY,Libya,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+LSO,Lesotho,2024,9,0,
+MAR,Morocco,2024,9,0,
+MDG,Madagascar,2024,9,0,
+MLI,Mali,2024,9,0,
+MOZ,Mozambique,2024,9,0,
+MRT,Mauritania,2024,9,0,
+MUS,Mauritius,2024,9,0,
+MWI,Malawi,2024,9,0,
+NAM,Namibia,2024,9,0,
+NER,Niger,2024,9,0,
+NGA,Nigeria,2024,9,0,
+RWA,Rwanda,2024,9,0,
+SDN,Sudan,2024,8,1,IT.NET.USER.ZS
+SEN,Senegal,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+SLE,Sierra Leone,2024,9,0,
+SOM,"Somalia, Fed. Rep.",2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+SSD,South Sudan,2024,5,4,BX.KLT.DINV.WD.GD.ZS|BX.TRF.PWKR.DT.GD.ZS|IT.NET.USER.ZS|NY.GDP.MKTP.CD
+STP,Sao Tome and Principe,2024,9,0,
+SWZ,Eswatini,2024,9,0,
+SYC,Seychelles,2024,9,0,
+TCD,Chad,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+TGO,Togo,2024,8,1,BX.TRF.PWKR.DT.GD.ZS
+TUN,Tunisia,2024,9,0,
+TZA,Tanzania,2024,9,0,
+UGA,Uganda,2024,9,0,
+ZAF,South Africa,2024,9,0,
+ZMB,Zambia,2024,9,0,
+ZWE,Zimbabwe,2024,9,0,

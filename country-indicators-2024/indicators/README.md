@@ -12,4 +12,6 @@ Use these notes to check the unit, scope and missing values before comparing the
 - [Total population](population.md)
 - [Net foreign direct investment inflows](foreign-direct-investment.md)
 
+[Coverage across all nine indicators](coverage-across-indicators.md) shows how missing observations affect comparisons.
+
 [Combined workbook and CSV](../README.md)
