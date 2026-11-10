@@ -15,6 +15,10 @@ Find the sources cited by ten [Infographics Africa](https://infographicsafrica.c
 
 Follow the story URL for the figure, unit and context. Follow the cited URL for the original record and its terms. The catalogue lists references and contains no underlying third-party datasets.
 
+## 2024 country indicators
+
+The [country indicator table](country-indicators-2024/) brings nine published World Bank extracts into one CSV and workbook. The folder links to each original indicator, archived release and matching explainer.
+
 ## Citation and licence
 
 Infographics Africa. (2026). *Infographics Africa source catalogue for ten visual explainers* [Data set]. Zenodo. [10.5281/zenodo.24074503](https://doi.org/10.5281/zenodo.24074503).

@@ -1,0 +1,487 @@
+iso3,country_wdi_name,indicator_code,year,value_exact,value_status,unit,wdi_source_updated,original_source,archive_doi
+AGO,Angola,BX.KLT.DINV.WD.GD.ZS,2024,-1.07650107199669,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+AGO,Angola,BX.TRF.PWKR.DT.GD.ZS,2024,0.0495140569771656,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+AGO,Angola,EG.ELC.ACCS.ZS,2024,55.5,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+AGO,Angola,IT.NET.USER.ZS,2024,40.70479965,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+AGO,Angola,NY.GDP.MKTP.CD,2024,103080538044.058,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+AGO,Angola,SH.DYN.MORT,2024,49,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+AGO,Angola,SP.DYN.LE00.IN,2024,64.805,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+AGO,Angola,SP.POP.TOTL,2024,37885849,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+AGO,Angola,SP.URB.TOTL.IN.ZS,2024,70.6551379036435,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+BDI,Burundi,BX.KLT.DINV.WD.GD.ZS,2024,1.0970222856868,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+BDI,Burundi,BX.TRF.PWKR.DT.GD.ZS,2024,7.79852802134993,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+BDI,Burundi,EG.ELC.ACCS.ZS,2024,20.1,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+BDI,Burundi,IT.NET.USER.ZS,2024,8.595999718,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+BDI,Burundi,NY.GDP.MKTP.CD,2024,3037579858.38142,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+BDI,Burundi,SH.DYN.MORT,2024,47.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+BDI,Burundi,SP.DYN.LE00.IN,2024,63.818,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+BDI,Burundi,SP.POP.TOTL,2024,14047786,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+BDI,Burundi,SP.URB.TOTL.IN.ZS,2024,24.8302838651025,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+BEN,Benin,BX.KLT.DINV.WD.GD.ZS,2024,1.84516663040616,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+BEN,Benin,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+BEN,Benin,EG.ELC.ACCS.ZS,2024,59,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+BEN,Benin,IT.NET.USER.ZS,2024,33.98379898,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+BEN,Benin,NY.GDP.MKTP.CD,2024,21482643706.4249,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+BEN,Benin,SH.DYN.MORT,2024,74.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+BEN,Benin,SP.DYN.LE00.IN,2024,60.961,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+BEN,Benin,SP.POP.TOTL,2024,14462724,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+BEN,Benin,SP.URB.TOTL.IN.ZS,2024,52.5455354818423,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+BFA,Burkina Faso,BX.KLT.DINV.WD.GD.ZS,2024,-0.874048616893636,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+BFA,Burkina Faso,BX.TRF.PWKR.DT.GD.ZS,2024,2.57274984525714,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+BFA,Burkina Faso,EG.ELC.ACCS.ZS,2024,34,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+BFA,Burkina Faso,IT.NET.USER.ZS,2024,28.25270081,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+BFA,Burkina Faso,NY.GDP.MKTP.CD,2024,23136514855.7646,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+BFA,Burkina Faso,SH.DYN.MORT,2024,74.9,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+BFA,Burkina Faso,SP.DYN.LE00.IN,2024,61.292,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+BFA,Burkina Faso,SP.POP.TOTL,2024,23548781,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+BFA,Burkina Faso,SP.URB.TOTL.IN.ZS,2024,28.3352514896662,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+BWA,Botswana,BX.KLT.DINV.WD.GD.ZS,2024,2.99667019090947,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+BWA,Botswana,BX.TRF.PWKR.DT.GD.ZS,2024,0.665235250950978,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+BWA,Botswana,EG.ELC.ACCS.ZS,2024,80.2,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+BWA,Botswana,IT.NET.USER.ZS,2024,57.45950036,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+BWA,Botswana,NY.GDP.MKTP.CD,2024,19286251067.5078,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+BWA,Botswana,SH.DYN.MORT,2024,33.3,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+BWA,Botswana,SP.DYN.LE00.IN,2024,69.293,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+BWA,Botswana,SP.POP.TOTL,2024,2521139,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+BWA,Botswana,SP.URB.TOTL.IN.ZS,2024,67.4623537838418,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+CAF,Central African Republic,BX.KLT.DINV.WD.GD.ZS,2024,1.46851186564355,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+CAF,Central African Republic,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+CAF,Central African Republic,EG.ELC.ACCS.ZS,2024,18.2,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+CAF,Central African Republic,IT.NET.USER.ZS,2024,13.78250027,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+CAF,Central African Republic,NY.GDP.MKTP.CD,2024,2751494281.06887,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+CAF,Central African Republic,SH.DYN.MORT,2024,89.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+CAF,Central African Republic,SP.DYN.LE00.IN,2024,57.671,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+CAF,Central African Republic,SP.POP.TOTL,2024,5330690,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+CAF,Central African Republic,SP.URB.TOTL.IN.ZS,2024,44.1243555638904,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+CIV,Cote d'Ivoire,BX.KLT.DINV.WD.GD.ZS,2024,3.58346670744132,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+CIV,Cote d'Ivoire,BX.TRF.PWKR.DT.GD.ZS,2024,2.03272330773983,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+CIV,Cote d'Ivoire,EG.ELC.ACCS.ZS,2024,72.9,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+CIV,Cote d'Ivoire,IT.NET.USER.ZS,2024,41.43219902,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+CIV,Cote d'Ivoire,NY.GDP.MKTP.CD,2024,87113179149.284,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+CIV,Cote d'Ivoire,SH.DYN.MORT,2024,64.5,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+CIV,Cote d'Ivoire,SP.DYN.LE00.IN,2024,62.11,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+CIV,Cote d'Ivoire,SP.POP.TOTL,2024,31934230,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+CIV,Cote d'Ivoire,SP.URB.TOTL.IN.ZS,2024,53.9733113940142,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+CMR,Cameroon,BX.KLT.DINV.WD.GD.ZS,2024,1.66655391243674,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+CMR,Cameroon,BX.TRF.PWKR.DT.GD.ZS,2024,1.29492646677846,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+CMR,Cameroon,EG.ELC.ACCS.ZS,2024,72,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+CMR,Cameroon,IT.NET.USER.ZS,2024,46.25880051,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+CMR,Cameroon,NY.GDP.MKTP.CD,2024,53296694320.2057,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+CMR,Cameroon,SH.DYN.MORT,2024,64.8,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+CMR,Cameroon,SP.DYN.LE00.IN,2024,63.968,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+CMR,Cameroon,SP.POP.TOTL,2024,29123744,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+CMR,Cameroon,SP.URB.TOTL.IN.ZS,2024,55.4031748609078,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+COD,"Congo, Dem. Rep.",BX.KLT.DINV.WD.GD.ZS,2024,3.84997694352814,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+COD,"Congo, Dem. Rep.",BX.TRF.PWKR.DT.GD.ZS,2024,2.64241574731216,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+COD,"Congo, Dem. Rep.",EG.ELC.ACCS.ZS,2024,22.5,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+COD,"Congo, Dem. Rep.",IT.NET.USER.ZS,2024,19.67350006,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+COD,"Congo, Dem. Rep.",NY.GDP.MKTP.CD,2024,75716176105.0704,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+COD,"Congo, Dem. Rep.",SH.DYN.MORT,2024,89.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+COD,"Congo, Dem. Rep.",SP.DYN.LE00.IN,2024,62.074,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+COD,"Congo, Dem. Rep.",SP.POP.TOTL,2024,109276265,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+COD,"Congo, Dem. Rep.",SP.URB.TOTL.IN.ZS,2024,44.7455804408753,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+COG,"Congo, Rep.",BX.KLT.DINV.WD.GD.ZS,2024,3.83980273937222,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+COG,"Congo, Rep.",BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+COG,"Congo, Rep.",EG.ELC.ACCS.ZS,2024,53,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+COG,"Congo, Rep.",IT.NET.USER.ZS,2024,47.25159836,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+COG,"Congo, Rep.",NY.GDP.MKTP.CD,2024,15719986076.6464,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+COG,"Congo, Rep.",SH.DYN.MORT,2024,39.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+COG,"Congo, Rep.",SP.DYN.LE00.IN,2024,66.001,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+COG,"Congo, Rep.",SP.POP.TOTL,2024,6332961,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+COG,"Congo, Rep.",SP.URB.TOTL.IN.ZS,2024,63.8866111699904,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+COM,Comoros,BX.KLT.DINV.WD.GD.ZS,2024,0.440971140907408,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+COM,Comoros,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+COM,Comoros,EG.ELC.ACCS.ZS,2024,91.7,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+COM,Comoros,IT.NET.USER.ZS,2024,32.51750183,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+COM,Comoros,NY.GDP.MKTP.CD,2024,1610082688.26617,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+COM,Comoros,SH.DYN.MORT,2024,39,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+COM,Comoros,SP.DYN.LE00.IN,2024,67.023,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+COM,Comoros,SP.POP.TOTL,2024,866628,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+COM,Comoros,SP.URB.TOTL.IN.ZS,2024,33.5392215673301,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+CPV,Cabo Verde,BX.KLT.DINV.WD.GD.ZS,2024,4.0509951845415,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+CPV,Cabo Verde,BX.TRF.PWKR.DT.GD.ZS,2024,12.3075360148272,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+CPV,Cabo Verde,EG.ELC.ACCS.ZS,2024,98.4,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+CPV,Cabo Verde,IT.NET.USER.ZS,2024,74.73519897,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+CPV,Cabo Verde,NY.GDP.MKTP.CD,2024,2713721857.39153,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+CPV,Cabo Verde,SH.DYN.MORT,2024,11.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+CPV,Cabo Verde,SP.DYN.LE00.IN,2024,76.224,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+CPV,Cabo Verde,SP.POP.TOTL,2024,524877,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+CPV,Cabo Verde,SP.URB.TOTL.IN.ZS,2024,76.7721471004354,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+DJI,Djibouti,BX.KLT.DINV.WD.GD.ZS,2024,1.63337101411676,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+DJI,Djibouti,BX.TRF.PWKR.DT.GD.ZS,2024,1.3486328033841,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+DJI,Djibouti,EG.ELC.ACCS.ZS,2024,69.2,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+DJI,Djibouti,IT.NET.USER.ZS,2024,65.29889679,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+DJI,Djibouti,NY.GDP.MKTP.CD,2024,4152145939.98458,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+DJI,Djibouti,SH.DYN.MORT,2024,48.9,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+DJI,Djibouti,SP.DYN.LE00.IN,2024,66.202,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+DJI,Djibouti,SP.POP.TOTL,2024,1168722,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+DJI,Djibouti,SP.URB.TOTL.IN.ZS,2024,72.9052635052978,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+DZA,Algeria,BX.KLT.DINV.WD.GD.ZS,2024,0.481035956681405,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+DZA,Algeria,BX.TRF.PWKR.DT.GD.ZS,2024,0.666844213956334,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+DZA,Algeria,EG.ELC.ACCS.ZS,2024,100,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+DZA,Algeria,IT.NET.USER.ZS,2024,77.4178009,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+DZA,Algeria,NY.GDP.MKTP.CD,2024,269322281664.773,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+DZA,Algeria,SH.DYN.MORT,2024,21.6,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+DZA,Algeria,SP.DYN.LE00.IN,2024,76.475,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+DZA,Algeria,SP.POP.TOTL,2024,46814308,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+DZA,Algeria,SP.URB.TOTL.IN.ZS,2024,75.2792907190618,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+EGY,"Egypt, Arab Rep.",BX.KLT.DINV.WD.GD.ZS,2024,11.9719351009449,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+EGY,"Egypt, Arab Rep.",BX.TRF.PWKR.DT.GD.ZS,2024,7.59757024437157,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+EGY,"Egypt, Arab Rep.",EG.ELC.ACCS.ZS,2024,100,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+EGY,"Egypt, Arab Rep.",IT.NET.USER.ZS,2024,74.64839935,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+EGY,"Egypt, Arab Rep.",NY.GDP.MKTP.CD,2024,389059910593.1,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+EGY,"Egypt, Arab Rep.",SH.DYN.MORT,2024,22.4,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+EGY,"Egypt, Arab Rep.",SP.DYN.LE00.IN,2024,71.806,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+EGY,"Egypt, Arab Rep.",SP.POP.TOTL,2024,116538258,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+EGY,"Egypt, Arab Rep.",SP.URB.TOTL.IN.ZS,2024,42.8004363938404,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+ERI,Eritrea,BX.KLT.DINV.WD.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+ERI,Eritrea,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+ERI,Eritrea,EG.ELC.ACCS.ZS,2024,55.3,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+ERI,Eritrea,IT.NET.USER.ZS,2024,,missing,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+ERI,Eritrea,NY.GDP.MKTP.CD,2024,,missing,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+ERI,Eritrea,SH.DYN.MORT,2024,34.3,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+ERI,Eritrea,SP.DYN.LE00.IN,2024,68.893,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+ERI,Eritrea,SP.POP.TOTL,2024,3535603,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+ERI,Eritrea,SP.URB.TOTL.IN.ZS,2024,34.5365524291992,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+ETH,Ethiopia,BX.KLT.DINV.WD.GD.ZS,2024,2.68582028017543,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+ETH,Ethiopia,BX.TRF.PWKR.DT.GD.ZS,2024,4.766710838993,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+ETH,Ethiopia,EG.ELC.ACCS.ZS,2024,56.6,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+ETH,Ethiopia,IT.NET.USER.ZS,2024,21.94129944,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+ETH,Ethiopia,NY.GDP.MKTP.CD,2024,149740297952.375,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+ETH,Ethiopia,SH.DYN.MORT,2024,44.5,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+ETH,Ethiopia,SP.DYN.LE00.IN,2024,67.603,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+ETH,Ethiopia,SP.POP.TOTL,2024,132059767,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+ETH,Ethiopia,SP.URB.TOTL.IN.ZS,2024,23.6222839355469,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+GAB,Gabon,BX.KLT.DINV.WD.GD.ZS,2024,1.48292817640017,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+GAB,Gabon,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+GAB,Gabon,EG.ELC.ACCS.ZS,2024,95.1,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+GAB,Gabon,IT.NET.USER.ZS,2024,68.72090149,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+GAB,Gabon,NY.GDP.MKTP.CD,2024,20895684425.6752,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+GAB,Gabon,SH.DYN.MORT,2024,32.6,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+GAB,Gabon,SP.DYN.LE00.IN,2024,68.511,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+GAB,Gabon,SP.POP.TOTL,2024,2538952,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+GAB,Gabon,SP.URB.TOTL.IN.ZS,2024,91.8632094677575,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+GHA,Ghana,BX.KLT.DINV.WD.GD.ZS,2024,2.11980137105215,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+GHA,Ghana,BX.TRF.PWKR.DT.GD.ZS,2024,3.63485196347604,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+GHA,Ghana,EG.ELC.ACCS.ZS,2024,91.9,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+GHA,Ghana,IT.NET.USER.ZS,2024,72.17569733,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+GHA,Ghana,NY.GDP.MKTP.CD,2024,83288585604.0268,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+GHA,Ghana,SH.DYN.MORT,2024,35.9,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+GHA,Ghana,SP.DYN.LE00.IN,2024,65.695,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+GHA,Ghana,SP.POP.TOTL,2024,34427414,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+GHA,Ghana,SP.URB.TOTL.IN.ZS,2024,58.3654868038581,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+GIN,Guinea,BX.KLT.DINV.WD.GD.ZS,2024,5.60537419672253,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+GIN,Guinea,BX.TRF.PWKR.DT.GD.ZS,2024,2.46482438123289,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+GIN,Guinea,EG.ELC.ACCS.ZS,2024,53.8,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+GIN,Guinea,IT.NET.USER.ZS,2024,33.30469894,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+GIN,Guinea,NY.GDP.MKTP.CD,2024,25008678293.4073,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+GIN,Guinea,SH.DYN.MORT,2024,92.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+GIN,Guinea,SP.DYN.LE00.IN,2024,60.904,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+GIN,Guinea,SP.POP.TOTL,2024,14754785,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+GIN,Guinea,SP.URB.TOTL.IN.ZS,2024,38.0713036688655,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+GMB,"Gambia, The",BX.KLT.DINV.WD.GD.ZS,2024,9.66186336562045,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+GMB,"Gambia, The",BX.TRF.PWKR.DT.GD.ZS,2024,21.9990433005617,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+GMB,"Gambia, The",EG.ELC.ACCS.ZS,2024,69,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+GMB,"Gambia, The",IT.NET.USER.ZS,2024,49.49430084,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+GMB,"Gambia, The",NY.GDP.MKTP.CD,2024,2404888737.54853,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+GMB,"Gambia, The",SH.DYN.MORT,2024,42.4,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+GMB,"Gambia, The",SP.DYN.LE00.IN,2024,66.057,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+GMB,"Gambia, The",SP.POP.TOTL,2024,2759988,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+GMB,"Gambia, The",SP.URB.TOTL.IN.ZS,2024,64.2994103409645,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+GNB,Guinea-Bissau,BX.KLT.DINV.WD.GD.ZS,2024,1.21259612687519,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+GNB,Guinea-Bissau,BX.TRF.PWKR.DT.GD.ZS,2024,9.88177152873842,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+GNB,Guinea-Bissau,EG.ELC.ACCS.ZS,2024,43.7,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+GNB,Guinea-Bissau,IT.NET.USER.ZS,2024,29.77739906,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+GNB,Guinea-Bissau,NY.GDP.MKTP.CD,2024,2197777209.94218,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+GNB,Guinea-Bissau,SH.DYN.MORT,2024,67.3,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+GNB,Guinea-Bissau,SP.DYN.LE00.IN,2024,64.254,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+GNB,Guinea-Bissau,SP.POP.TOTL,2024,2201352,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+GNB,Guinea-Bissau,SP.URB.TOTL.IN.ZS,2024,46.113204421822,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+GNQ,Equatorial Guinea,BX.KLT.DINV.WD.GD.ZS,2024,1.41848631031449,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+GNQ,Equatorial Guinea,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+GNQ,Equatorial Guinea,EG.ELC.ACCS.ZS,2024,65.1,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+GNQ,Equatorial Guinea,IT.NET.USER.ZS,2024,63.29930115,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+GNQ,Equatorial Guinea,NY.GDP.MKTP.CD,2024,13254388261.1258,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+GNQ,Equatorial Guinea,SH.DYN.MORT,2024,68,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+GNQ,Equatorial Guinea,SP.DYN.LE00.IN,2024,63.906,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+GNQ,Equatorial Guinea,SP.POP.TOTL,2024,1892516,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+GNQ,Equatorial Guinea,SP.URB.TOTL.IN.ZS,2024,71.3574028749806,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+KEN,Kenya,BX.KLT.DINV.WD.GD.ZS,2024,0.647937232076935,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+KEN,Kenya,BX.TRF.PWKR.DT.GD.ZS,2024,4.15276804487157,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+KEN,Kenya,EG.ELC.ACCS.ZS,2024,77,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+KEN,Kenya,IT.NET.USER.ZS,2024,34.97622513,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+KEN,Kenya,NY.GDP.MKTP.CD,2024,120397537849.826,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+KEN,Kenya,SH.DYN.MORT,2024,38.8,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+KEN,Kenya,SP.DYN.LE00.IN,2024,63.834,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+KEN,Kenya,SP.POP.TOTL,2024,56432944,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+KEN,Kenya,SP.URB.TOTL.IN.ZS,2024,31.8937831721599,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+LBR,Liberia,BX.KLT.DINV.WD.GD.ZS,2024,9.86626133953545,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+LBR,Liberia,BX.TRF.PWKR.DT.GD.ZS,2024,21.2758383451019,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+LBR,Liberia,EG.ELC.ACCS.ZS,2024,34.9,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+LBR,Liberia,IT.NET.USER.ZS,2024,32.23360062,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+LBR,Liberia,NY.GDP.MKTP.CD,2024,4779300900,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+LBR,Liberia,SH.DYN.MORT,2024,86.4,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+LBR,Liberia,SP.DYN.LE00.IN,2024,62.324,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+LBR,Liberia,SP.POP.TOTL,2024,5612817,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+LBR,Liberia,SP.URB.TOTL.IN.ZS,2024,55.5387986654968,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+LBY,Libya,BX.KLT.DINV.WD.GD.ZS,2024,1.43831918873239,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+LBY,Libya,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+LBY,Libya,EG.ELC.ACCS.ZS,2024,77.4,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+LBY,Libya,IT.NET.USER.ZS,2024,81.95449829,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+LBY,Libya,NY.GDP.MKTP.CD,2024,48487151215.345,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+LBY,Libya,SH.DYN.MORT,2024,9.8,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+LBY,Libya,SP.DYN.LE00.IN,2024,71.121,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+LBY,Libya,SP.POP.TOTL,2024,7381023,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+LBY,Libya,SP.URB.TOTL.IN.ZS,2024,87.8854066107749,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+LSO,Lesotho,BX.KLT.DINV.WD.GD.ZS,2024,0.619879264337554,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+LSO,Lesotho,BX.TRF.PWKR.DT.GD.ZS,2024,19.8980595548147,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+LSO,Lesotho,EG.ELC.ACCS.ZS,2024,60.6,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+LSO,Lesotho,IT.NET.USER.ZS,2024,51.79660034,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+LSO,Lesotho,NY.GDP.MKTP.CD,2024,2391282547.80028,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+LSO,Lesotho,SH.DYN.MORT,2024,60,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+LSO,Lesotho,SP.DYN.LE00.IN,2024,57.798,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+LSO,Lesotho,SP.POP.TOTL,2024,2337423,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+LSO,Lesotho,SP.URB.TOTL.IN.ZS,2024,43.6780334209246,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+MAR,Morocco,BX.KLT.DINV.WD.GD.ZS,2024,1.08850441035779,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+MAR,Morocco,BX.TRF.PWKR.DT.GD.ZS,2024,7.78840277046277,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+MAR,Morocco,EG.ELC.ACCS.ZS,2024,100,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+MAR,Morocco,IT.NET.USER.ZS,2024,91.2,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+MAR,Morocco,NY.GDP.MKTP.CD,2024,160610994054.734,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+MAR,Morocco,SH.DYN.MORT,2024,15.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+MAR,Morocco,SP.DYN.LE00.IN,2024,75.493,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+MAR,Morocco,SP.POP.TOTL,2024,38081173,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+MAR,Morocco,SP.URB.TOTL.IN.ZS,2024,62.7998124018197,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+MDG,Madagascar,BX.KLT.DINV.WD.GD.ZS,2024,3.44577112659577,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+MDG,Madagascar,BX.TRF.PWKR.DT.GD.ZS,2024,2.30923332864651,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+MDG,Madagascar,EG.ELC.ACCS.ZS,2024,42.5,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+MDG,Madagascar,IT.NET.USER.ZS,2024,18.67790031,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+MDG,Madagascar,NY.GDP.MKTP.CD,2024,17592832696.1336,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+MDG,Madagascar,SH.DYN.MORT,2024,62.4,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+MDG,Madagascar,SP.DYN.LE00.IN,2024,63.835,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+MDG,Madagascar,SP.POP.TOTL,2024,31964956,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+MDG,Madagascar,SP.URB.TOTL.IN.ZS,2024,32.4339893339844,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+MLI,Mali,BX.KLT.DINV.WD.GD.ZS,2024,3.44170555566452,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+MLI,Mali,BX.TRF.PWKR.DT.GD.ZS,2024,3.99433597388338,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+MLI,Mali,EG.ELC.ACCS.ZS,2024,49.5,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+MLI,Mali,IT.NET.USER.ZS,2024,36.80149841,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+MLI,Mali,NY.GDP.MKTP.CD,2024,26761281076.7658,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+MLI,Mali,SH.DYN.MORT,2024,73,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+MLI,Mali,SP.DYN.LE00.IN,2024,60.675,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+MLI,Mali,SP.POP.TOTL,2024,24478595,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+MLI,Mali,SP.URB.TOTL.IN.ZS,2024,31.6075621182225,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+MOZ,Mozambique,BX.KLT.DINV.WD.GD.ZS,2024,15.4210115464394,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+MOZ,Mozambique,BX.TRF.PWKR.DT.GD.ZS,2024,1.17313632356755,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+MOZ,Mozambique,EG.ELC.ACCS.ZS,2024,36.9,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+MOZ,Mozambique,IT.NET.USER.ZS,2024,20.52729988,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+MOZ,Mozambique,NY.GDP.MKTP.CD,2024,22752244245.473,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+MOZ,Mozambique,SH.DYN.MORT,2024,59.4,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+MOZ,Mozambique,SP.DYN.LE00.IN,2024,63.797,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+MOZ,Mozambique,SP.POP.TOTL,2024,34631766,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+MOZ,Mozambique,SP.URB.TOTL.IN.ZS,2024,36.4332337447237,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+MRT,Mauritania,BX.KLT.DINV.WD.GD.ZS,2024,13.2389288029166,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+MRT,Mauritania,BX.TRF.PWKR.DT.GD.ZS,2024,0.869003936095877,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+MRT,Mauritania,EG.ELC.ACCS.ZS,2024,52.2,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+MRT,Mauritania,IT.NET.USER.ZS,2024,45.77939987,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+MRT,Mauritania,NY.GDP.MKTP.CD,2024,10879212033.4823,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+MRT,Mauritania,SH.DYN.MORT,2024,36.9,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+MRT,Mauritania,SP.DYN.LE00.IN,2024,68.713,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+MRT,Mauritania,SP.POP.TOTL,2024,5169395,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+MRT,Mauritania,SP.URB.TOTL.IN.ZS,2024,60.6068586411829,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+MUS,Mauritius,BX.KLT.DINV.WD.GD.ZS,2024,4.56067540596739,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+MUS,Mauritius,BX.TRF.PWKR.DT.GD.ZS,2024,1.92042789803528,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+MUS,Mauritius,EG.ELC.ACCS.ZS,2024,100,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+MUS,Mauritius,IT.NET.USER.ZS,2024,73.30793533,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+MUS,Mauritius,NY.GDP.MKTP.CD,2024,14938055690.3609,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+MUS,Mauritius,SH.DYN.MORT,2024,15.4,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+MUS,Mauritius,SP.DYN.LE00.IN,2024,73.7890243902439,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+MUS,Mauritius,SP.POP.TOTL,2024,1245779,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+MUS,Mauritius,SP.URB.TOTL.IN.ZS,2024,39.0162147027917,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+MWI,Malawi,BX.KLT.DINV.WD.GD.ZS,2024,2.9758738603998,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+MWI,Malawi,BX.TRF.PWKR.DT.GD.ZS,2024,1.97676396289947,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+MWI,Malawi,EG.ELC.ACCS.ZS,2024,15.6,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+MWI,Malawi,IT.NET.USER.ZS,2024,18.96159935,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+MWI,Malawi,NY.GDP.MKTP.CD,2024,11311971400.3864,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+MWI,Malawi,SH.DYN.MORT,2024,48.8,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+MWI,Malawi,SP.DYN.LE00.IN,2024,67.561,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+MWI,Malawi,SP.POP.TOTL,2024,21655286,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+MWI,Malawi,SP.URB.TOTL.IN.ZS,2024,17.268503531213,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+NAM,Namibia,BX.KLT.DINV.WD.GD.ZS,2024,14.1844922069439,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+NAM,Namibia,BX.TRF.PWKR.DT.GD.ZS,2024,0.707386765887929,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+NAM,Namibia,EG.ELC.ACCS.ZS,2024,59.3,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+NAM,Namibia,IT.NET.USER.ZS,2024,64.87460327,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+NAM,Namibia,NY.GDP.MKTP.CD,2024,13641190683.4641,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+NAM,Namibia,SH.DYN.MORT,2024,39.5,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+NAM,Namibia,SP.DYN.LE00.IN,2024,67.516,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+NAM,Namibia,SP.POP.TOTL,2024,3030131,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+NAM,Namibia,SP.URB.TOTL.IN.ZS,2024,50.4088030252155,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+NER,Niger,BX.KLT.DINV.WD.GD.ZS,2024,1.81493836603542,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+NER,Niger,BX.TRF.PWKR.DT.GD.ZS,2024,3.29647457556865,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+NER,Niger,EG.ELC.ACCS.ZS,2024,21.3,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+NER,Niger,IT.NET.USER.ZS,2024,15.55760002,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+NER,Niger,NY.GDP.MKTP.CD,2024,19729786046.7618,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+NER,Niger,SH.DYN.MORT,2024,110.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+NER,Niger,SP.DYN.LE00.IN,2024,61.433,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+NER,Niger,SP.POP.TOTL,2024,27032412,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+NER,Niger,SP.URB.TOTL.IN.ZS,2024,18.0497398450803,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+NGA,Nigeria,BX.KLT.DINV.WD.GD.ZS,2024,0.639824358730627,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+NGA,Nigeria,BX.TRF.PWKR.DT.GD.ZS,2024,8.77134410191558,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+NGA,Nigeria,EG.ELC.ACCS.ZS,2024,62.5,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+NGA,Nigeria,IT.NET.USER.ZS,2024,41.21139908,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+NGA,Nigeria,NY.GDP.MKTP.CD,2024,252261880140.271,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+NGA,Nigeria,SH.DYN.MORT,2024,115.6,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+NGA,Nigeria,SP.DYN.LE00.IN,2024,54.635,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+NGA,Nigeria,SP.POP.TOTL,2024,232679478,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+NGA,Nigeria,SP.URB.TOTL.IN.ZS,2024,62.9755675573659,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+RWA,Rwanda,BX.KLT.DINV.WD.GD.ZS,2024,3.79145567191588,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+RWA,Rwanda,BX.TRF.PWKR.DT.GD.ZS,2024,3.42162469319446,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+RWA,Rwanda,EG.ELC.ACCS.ZS,2024,72,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+RWA,Rwanda,IT.NET.USER.ZS,2024,31.70330048,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+RWA,Rwanda,NY.GDP.MKTP.CD,2024,15111064181.9687,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+RWA,Rwanda,SH.DYN.MORT,2024,37.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+RWA,Rwanda,SP.DYN.LE00.IN,2024,68.017,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+RWA,Rwanda,SP.POP.TOTL,2024,14256567,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+RWA,Rwanda,SP.URB.TOTL.IN.ZS,2024,29.8849714294083,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+SDN,Sudan,BX.KLT.DINV.WD.GD.ZS,2024,0.00000946748040723424,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+SDN,Sudan,BX.TRF.PWKR.DT.GD.ZS,2024,0.0458791016760329,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+SDN,Sudan,EG.ELC.ACCS.ZS,2024,66,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+SDN,Sudan,IT.NET.USER.ZS,2024,,missing,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+SDN,Sudan,NY.GDP.MKTP.CD,2024,49672435513.1126,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+SDN,Sudan,SH.DYN.MORT,2024,61.6,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+SDN,Sudan,SP.DYN.LE00.IN,2024,66.521,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+SDN,Sudan,SP.POP.TOTL,2024,50448963,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+SDN,Sudan,SP.URB.TOTL.IN.ZS,2024,34.8673015510839,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+SEN,Senegal,BX.KLT.DINV.WD.GD.ZS,2024,10.3160454998226,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+SEN,Senegal,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+SEN,Senegal,EG.ELC.ACCS.ZS,2024,82.9,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+SEN,Senegal,IT.NET.USER.ZS,2024,60.11780167,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+SEN,Senegal,NY.GDP.MKTP.CD,2024,32169996051.8502,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+SEN,Senegal,SH.DYN.MORT,2024,36.5,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+SEN,Senegal,SP.DYN.LE00.IN,2024,68.924,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+SEN,Senegal,SP.POP.TOTL,2024,18501984,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+SEN,Senegal,SP.URB.TOTL.IN.ZS,2024,55.2368169057304,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+SLE,Sierra Leone,BX.KLT.DINV.WD.GD.ZS,2024,1.74699628470852,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+SLE,Sierra Leone,BX.TRF.PWKR.DT.GD.ZS,2024,4.60220597454006,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+SLE,Sierra Leone,EG.ELC.ACCS.ZS,2024,39.2,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+SLE,Sierra Leone,IT.NET.USER.ZS,2024,25.10499954,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+SLE,Sierra Leone,NY.GDP.MKTP.CD,2024,6971127234.07241,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+SLE,Sierra Leone,SH.DYN.MORT,2024,90.5,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+SLE,Sierra Leone,SP.DYN.LE00.IN,2024,61.964,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+SLE,Sierra Leone,SP.POP.TOTL,2024,8642022,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+SLE,Sierra Leone,SP.URB.TOTL.IN.ZS,2024,45.3626823156371,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+SOM,"Somalia, Fed. Rep.",BX.KLT.DINV.WD.GD.ZS,2024,6.39257959388318,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+SOM,"Somalia, Fed. Rep.",BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+SOM,"Somalia, Fed. Rep.",EG.ELC.ACCS.ZS,2024,54.4,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+SOM,"Somalia, Fed. Rep.",IT.NET.USER.ZS,2024,27.94020081,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+SOM,"Somalia, Fed. Rep.",NY.GDP.MKTP.CD,2024,11967000000,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+SOM,"Somalia, Fed. Rep.",SH.DYN.MORT,2024,101.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+SOM,"Somalia, Fed. Rep.",SP.DYN.LE00.IN,2024,58.967,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+SOM,"Somalia, Fed. Rep.",SP.POP.TOTL,2024,19009151,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+SOM,"Somalia, Fed. Rep.",SP.URB.TOTL.IN.ZS,2024,54.6176465524521,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+SSD,South Sudan,BX.KLT.DINV.WD.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+SSD,South Sudan,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+SSD,South Sudan,EG.ELC.ACCS.ZS,2024,5.4,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+SSD,South Sudan,IT.NET.USER.ZS,2024,,missing,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+SSD,South Sudan,NY.GDP.MKTP.CD,2024,,missing,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+SSD,South Sudan,SH.DYN.MORT,2024,96.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+SSD,South Sudan,SP.DYN.LE00.IN,2024,57.738,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+SSD,South Sudan,SP.POP.TOTL,2024,11943408,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+SSD,South Sudan,SP.URB.TOTL.IN.ZS,2024,21.3768190444906,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+STP,Sao Tome and Principe,BX.KLT.DINV.WD.GD.ZS,2024,4.67577808055118,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+STP,Sao Tome and Principe,BX.TRF.PWKR.DT.GD.ZS,2024,1.70111576024592,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+STP,Sao Tome and Principe,EG.ELC.ACCS.ZS,2024,77.7,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+STP,Sao Tome and Principe,IT.NET.USER.ZS,2024,59.11759949,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+STP,Sao Tome and Principe,NY.GDP.MKTP.CD,2024,824992558.045383,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+STP,Sao Tome and Principe,SH.DYN.MORT,2024,13.6,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+STP,Sao Tome and Principe,SP.DYN.LE00.IN,2024,69.905,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+STP,Sao Tome and Principe,SP.POP.TOTL,2024,235536,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+STP,Sao Tome and Principe,SP.URB.TOTL.IN.ZS,2024,68.8710170184884,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+SWZ,Eswatini,BX.KLT.DINV.WD.GD.ZS,2024,2.78930102905337,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+SWZ,Eswatini,BX.TRF.PWKR.DT.GD.ZS,2024,0.686290886514352,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+SWZ,Eswatini,EG.ELC.ACCS.ZS,2024,89.3,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+SWZ,Eswatini,IT.NET.USER.ZS,2024,63.40309906,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+SWZ,Eswatini,NY.GDP.MKTP.CD,2024,4858885840.77236,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+SWZ,Eswatini,SH.DYN.MORT,2024,45.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+SWZ,Eswatini,SP.DYN.LE00.IN,2024,64.264,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+SWZ,Eswatini,SP.POP.TOTL,2024,1242822,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+SWZ,Eswatini,SP.URB.TOTL.IN.ZS,2024,26.2498461258639,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+SYC,Seychelles,BX.KLT.DINV.WD.GD.ZS,2024,10.1468739688419,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+SYC,Seychelles,BX.TRF.PWKR.DT.GD.ZS,2024,0.536012369558519,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+SYC,Seychelles,EG.ELC.ACCS.ZS,2024,100,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+SYC,Seychelles,IT.NET.USER.ZS,2024,87.81800079,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+SYC,Seychelles,NY.GDP.MKTP.CD,2024,2228608684.29911,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+SYC,Seychelles,SH.DYN.MORT,2024,14,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+SYC,Seychelles,SP.DYN.LE00.IN,2024,76.2951219512195,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+SYC,Seychelles,SP.POP.TOTL,2024,121354,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+SYC,Seychelles,SP.URB.TOTL.IN.ZS,2024,45.2898622460415,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+TCD,Chad,BX.KLT.DINV.WD.GD.ZS,2024,0.0140841126746619,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+TCD,Chad,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+TCD,Chad,EG.ELC.ACCS.ZS,2024,13.4,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+TCD,Chad,IT.NET.USER.ZS,2024,12.62689972,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+TCD,Chad,NY.GDP.MKTP.CD,2024,19906706689.7582,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+TCD,Chad,SH.DYN.MORT,2024,97.3,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+TCD,Chad,SP.DYN.LE00.IN,2024,55.238,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+TCD,Chad,SP.POP.TOTL,2024,20299123,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+TCD,Chad,SP.URB.TOTL.IN.ZS,2024,26.9315292389497,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+TGO,Togo,BX.KLT.DINV.WD.GD.ZS,2024,1.90035019398044,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+TGO,Togo,BX.TRF.PWKR.DT.GD.ZS,2024,,missing,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+TGO,Togo,EG.ELC.ACCS.ZS,2024,61.1,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+TGO,Togo,IT.NET.USER.ZS,2024,39.48320007,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+TGO,Togo,NY.GDP.MKTP.CD,2024,10643440332.2445,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+TGO,Togo,SH.DYN.MORT,2024,56.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+TGO,Togo,SP.DYN.LE00.IN,2024,62.935,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+TGO,Togo,SP.POP.TOTL,2024,8406558,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+TGO,Togo,SP.URB.TOTL.IN.ZS,2024,43.8148491605996,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+TUN,Tunisia,BX.KLT.DINV.WD.GD.ZS,2024,1.47135263721394,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+TUN,Tunisia,BX.TRF.PWKR.DT.GD.ZS,2024,6.33501731969714,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+TUN,Tunisia,EG.ELC.ACCS.ZS,2024,100,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+TUN,Tunisia,IT.NET.USER.ZS,2024,76.5,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+TUN,Tunisia,NY.GDP.MKTP.CD,2024,51412122479.8468,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+TUN,Tunisia,SH.DYN.MORT,2024,12.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+TUN,Tunisia,SP.DYN.LE00.IN,2024,76.711,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+TUN,Tunisia,SP.POP.TOTL,2024,12277109,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+TUN,Tunisia,SP.URB.TOTL.IN.ZS,2024,70.3585355691955,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+TZA,Tanzania,BX.KLT.DINV.WD.GD.ZS,2024,2.16767805172059,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+TZA,Tanzania,BX.TRF.PWKR.DT.GD.ZS,2024,1.41761823085648,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+TZA,Tanzania,EG.ELC.ACCS.ZS,2024,52.4,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+TZA,Tanzania,IT.NET.USER.ZS,2024,31.16209984,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+TZA,Tanzania,NY.GDP.MKTP.CD,2024,79235713444.9777,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+TZA,Tanzania,SH.DYN.MORT,2024,37,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+TZA,Tanzania,SP.DYN.LE00.IN,2024,67.212,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+TZA,Tanzania,SP.POP.TOTL,2024,68560157,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+TZA,Tanzania,SP.URB.TOTL.IN.ZS,2024,36.1684458862992,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+UGA,Uganda,BX.KLT.DINV.WD.GD.ZS,2024,5.7791869414521,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+UGA,Uganda,BX.TRF.PWKR.DT.GD.ZS,2024,2.65140809528268,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+UGA,Uganda,EG.ELC.ACCS.ZS,2024,55.3,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+UGA,Uganda,IT.NET.USER.ZS,2024,8.949831061,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+UGA,Uganda,NY.GDP.MKTP.CD,2024,53911907079.0485,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+UGA,Uganda,SH.DYN.MORT,2024,48.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+UGA,Uganda,SP.DYN.LE00.IN,2024,68.487,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+UGA,Uganda,SP.POP.TOTL,2024,50015092,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+UGA,Uganda,SP.URB.TOTL.IN.ZS,2024,31.2777698213557,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+ZAF,South Africa,BX.KLT.DINV.WD.GD.ZS,2024,0.580891709673066,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+ZAF,South Africa,BX.TRF.PWKR.DT.GD.ZS,2024,0.213233288359423,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+ZAF,South Africa,EG.ELC.ACCS.ZS,2024,90.2,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+ZAF,South Africa,IT.NET.USER.ZS,2024,78.35759735,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+ZAF,South Africa,NY.GDP.MKTP.CD,2024,401144998373.585,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+ZAF,South Africa,SH.DYN.MORT,2024,35.1,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+ZAF,South Africa,SP.DYN.LE00.IN,2024,66.312,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+ZAF,South Africa,SP.POP.TOTL,2024,64007187,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+ZAF,South Africa,SP.URB.TOTL.IN.ZS,2024,63.6917984858172,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+ZMB,Zambia,BX.KLT.DINV.WD.GD.ZS,2024,9.32437789659637,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+ZMB,Zambia,BX.TRF.PWKR.DT.GD.ZS,2024,1.32123122514255,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+ZMB,Zambia,EG.ELC.ACCS.ZS,2024,53.6,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+ZMB,Zambia,IT.NET.USER.ZS,2024,17.10099983,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+ZMB,Zambia,NY.GDP.MKTP.CD,2024,25303185342.2511,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+ZMB,Zambia,SH.DYN.MORT,2024,48.4,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+ZMB,Zambia,SP.DYN.LE00.IN,2024,66.528,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+ZMB,Zambia,SP.POP.TOTL,2024,21314956,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+ZMB,Zambia,SP.URB.TOTL.IN.ZS,2024,45.4703838491279,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
+ZWE,Zimbabwe,BX.KLT.DINV.WD.GD.ZS,2024,1.12093172517355,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS,https://doi.org/10.5281/zenodo.24099748
+ZWE,Zimbabwe,BX.TRF.PWKR.DT.GD.ZS,2024,8.45310225048767,available,% of GDP,2026-10-08,https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS,https://doi.org/10.5281/zenodo.24098357
+ZWE,Zimbabwe,EG.ELC.ACCS.ZS,2024,62,available,% of population,2026-10-08,https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS,https://doi.org/10.5281/zenodo.24098507
+ZWE,Zimbabwe,IT.NET.USER.ZS,2024,41.64279938,available,% of population,2026-10-08,https://data.worldbank.org/indicator/IT.NET.USER.ZS,https://doi.org/10.5281/zenodo.24099738
+ZWE,Zimbabwe,NY.GDP.MKTP.CD,2024,41521975830.2351,available,Current US dollars,2026-10-08,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,https://doi.org/10.5281/zenodo.24098513
+ZWE,Zimbabwe,SH.DYN.MORT,2024,64.7,available,"Deaths per 1,000 live births",2026-10-08,https://data.worldbank.org/indicator/SH.DYN.MORT,https://doi.org/10.5281/zenodo.24098510
+ZWE,Zimbabwe,SP.DYN.LE00.IN,2024,63.064,available,Years,2026-10-08,https://data.worldbank.org/indicator/SP.DYN.LE00.IN,https://doi.org/10.5281/zenodo.24099742
+ZWE,Zimbabwe,SP.POP.TOTL,2024,16634373,available,People,2026-10-08,https://data.worldbank.org/indicator/SP.POP.TOTL,https://doi.org/10.5281/zenodo.24099746
+ZWE,Zimbabwe,SP.URB.TOTL.IN.ZS,2024,39.8933716820696,available,% of population,2026-10-08,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,https://doi.org/10.5281/zenodo.24099744
